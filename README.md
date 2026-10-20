@@ -8,6 +8,10 @@ A student pastes a part-time job offer, and Pause points to the exact words that
 
 A **money mule** is someone who moves stolen money through their own bank account, often recruited through "easy" part-time jobs. Pause is an educational checker for that situation.
 
+## The attack
+
+Money-mule recruiters pose as employers offering easy part-time work, then turn the student's own account into the workplace: receive a payment and forward it, share a one-time password, rent out a bank login. It is social engineering aimed at students who need the income. Pause names each of those moves in the exact words the offer used.
+
 ## What it does
 
 - Checks an offer against 20 weighted rules and shows the exact excerpt behind every match.
