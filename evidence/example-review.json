@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "score": 100,
+  "band": "high",
+  "flags": [
+    {
+      "id": "transfer",
+      "weight": 50,
+      "title": {
+        "en": "Receive and move money",
+        "ms": "Terima dan pindahkan wang"
+      },
+      "why": {
+        "en": "Moving someone else’s funds through your account can expose you to money-mule activity. Pause and verify the employer independently.",
+        "ms": "Memindahkan wang orang lain melalui akaun anda boleh melibatkan aktiviti akaun keldai. Berhenti dan sahkan majikan secara bebas."
+      },
+      "evidence": [
+        {
+          "start": 0,
+          "end": 20,
+          "text": "Receive and transfer"
+        }
+      ]
+    },
+    {
+      "id": "personal_account",
+      "weight": 30,
+      "title": {
+        "en": "Your account becomes the workplace",
+        "ms": "Akaun anda digunakan untuk kerja"
+      },
+      "why": {
+        "en": "Payroll may require an account number. Using your account to process business funds is different; ask what the account will be used for.",
+        "ms": "Gaji mungkin memerlukan nombor akaun. Memproses wang perniagaan melalui akaun anda berbeza; tanya tujuan penggunaan akaun."
+      },
+      "evidence": [
+        {
+          "start": 49,
+          "end": 75,
+          "text": "your personal bank account"
+        }
+      ]
+    },
+    {
+      "id": "commission",
+      "weight": 10,
+      "title": {
+        "en": "Commission for moving funds",
+        "ms": "Komisen untuk pindahan wang"
+      },
+      "why": {
+        "en": "Commission tied to money movement deserves scrutiny, especially alongside requests to use your own account.",
+        "ms": "Komisen yang berkaitan pemindahan wang perlu disemak, terutama jika menggunakan akaun sendiri."
+      },
+      "evidence": [
+        {
+          "start": 77,
+          "end": 94,
+          "text": "Keep a commission"
+        }
+      ]
+    },
+    {
+      "id": "no_interview",
+      "weight": 10,
+      "title": {
+        "en": "No interview or screening",
+        "ms": "Tiada temu duga atau saringan"
+      },
+      "why": {
+        "en": "Some short jobs have simple hiring. Combined with unusual financial tasks, absent screening deserves a closer look.",
+        "ms": "Sesetengah kerja singkat mempunyai pengambilan ringkas. Jika disertai urusan wang luar biasa, ketiadaan saringan perlu diteliti."
+      },
+      "evidence": [
+        {
+          "start": 96,
+          "end": 108,
+          "text": "No interview"
+        }
+      ]
+    }
+  ],
+  "context_notes": [],
+  "characters": 110,
+  "rule_count": 20,
+  "uncertainty": "This is an uncalibrated rules score, not a probability or a fraud verdict. Missing flags do not establish safety.",
+  "provenance": "Local analysis. No text retained by the server. No identity, company or bank verification performed."
+}

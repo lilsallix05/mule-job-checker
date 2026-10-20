@@ -1,0 +1,157 @@
+{
+  "model": "Multinomial Naive Bayes, add-one smoothing",
+  "train_size": 34,
+  "test_size": 16,
+  "test_families": [
+    "design",
+    "lend_account",
+    "promise",
+    "referral",
+    "remote_device",
+    "secret_funds",
+    "sports",
+    "task_escalation"
+  ],
+  "train_families": [
+    "apk",
+    "cafe",
+    "card",
+    "crypto",
+    "evasion",
+    "fee",
+    "identity",
+    "lab",
+    "library",
+    "login",
+    "otp",
+    "payroll_context",
+    "rental",
+    "safety_notice",
+    "topup_chain",
+    "transfer",
+    "tutor"
+  ],
+  "corpus_sha256": "bb7fca5a98ef1a245ac4294501edc14ccfe8865b4f4045d0d4717ead71a4ae83",
+  "labels": [
+    "low",
+    "review",
+    "high"
+  ],
+  "confusion_matrix": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      2,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      6
+    ]
+  ],
+  "per_class": {
+    "low": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "support": 4
+    },
+    "review": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "support": 6
+    },
+    "high": {
+      "precision": 0.5454545454545454,
+      "recall": 1.0,
+      "support": 6
+    }
+  },
+  "predictions": [
+    {
+      "id": "offer-08-en",
+      "expected": "high",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-08-ms",
+      "expected": "high",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-09-en",
+      "expected": "high",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-09-ms",
+      "expected": "high",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-10-en",
+      "expected": "high",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-10-ms",
+      "expected": "high",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-15-en",
+      "expected": "review",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-15-ms",
+      "expected": "review",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-16-en",
+      "expected": "review",
+      "predicted": "low"
+    },
+    {
+      "id": "offer-16-ms",
+      "expected": "review",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-17-en",
+      "expected": "review",
+      "predicted": "low"
+    },
+    {
+      "id": "offer-17-ms",
+      "expected": "review",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-24-en",
+      "expected": "low",
+      "predicted": "review"
+    },
+    {
+      "id": "offer-24-ms",
+      "expected": "low",
+      "predicted": "low"
+    },
+    {
+      "id": "offer-25-en",
+      "expected": "low",
+      "predicted": "high"
+    },
+    {
+      "id": "offer-25-ms",
+      "expected": "low",
+      "predicted": "low"
+    }
+  ],
+  "limits": "Fixed family-held-out split of synthetic examples, translations grouped. No tuning on test labels. Tiny authored test set is not evidence of real-world detection quality."
+}

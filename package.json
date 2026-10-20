@@ -1,0 +1,13 @@
+{
+  "name": "pause-job-offer-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional browser-test dependencies; runtime is Python standard library only.",
+  "scripts": {
+    "test:browser": "node tests/browser.cjs",
+    "test:responsive": "node tests/responsive.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

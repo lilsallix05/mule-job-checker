@@ -1,0 +1,502 @@
+[
+  {
+    "id": "offer-01-en",
+    "family": "transfer",
+    "language": "en",
+    "title": "Weekend payment assistant",
+    "text": "Receive and transfer money for our clients using your personal bank account. Keep a commission. No interview.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-01-ms",
+    "family": "transfer",
+    "language": "ms",
+    "title": "Pembantu bayaran hujung minggu",
+    "text": "Terima dan pindahkan wang pelanggan melalui akaun bank peribadi anda. Komisen setiap transaksi. Tanpa temu duga.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-02-en",
+    "family": "rental",
+    "language": "en",
+    "title": "Account partnership",
+    "text": "Rent your bank account for our settlement service. RM500 weekly. Contact Telegram for instructions.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-02-ms",
+    "family": "rental",
+    "language": "ms",
+    "title": "Rakan akaun",
+    "text": "Sewa akaun untuk perkhidmatan penyelesaian kami. RM500 seminggu. Hubungi Telegram untuk arahan.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-03-en",
+    "family": "otp",
+    "language": "en",
+    "title": "Payroll activation",
+    "text": "Send your OTP to our recruiter to activate payroll. Act now; limited slots.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-03-ms",
+    "family": "otp",
+    "language": "ms",
+    "title": "Pengaktifan gaji",
+    "text": "Hantar OTP kepada perekrut untuk aktifkan gaji. Segera, slot terhad.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-04-en",
+    "family": "card",
+    "language": "en",
+    "title": "Remote cashier",
+    "text": "Courier your debit card to the supervisor for cash collection. Training begins next week.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-04-ms",
+    "family": "card",
+    "language": "ms",
+    "title": "Juruwang jarak jauh",
+    "text": "Hantar kad debit kepada penyelia untuk kutipan tunai. Latihan bermula minggu depan.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-05-en",
+    "family": "login",
+    "language": "en",
+    "title": "Settlement operator",
+    "text": "Provide your banking password for the settlement operator position. We will do the processing.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-05-ms",
+    "family": "login",
+    "language": "ms",
+    "title": "Pengendali penyelesaian",
+    "text": "Beri kata laluan bank untuk jawatan pengendali penyelesaian. Kami akan memproses transaksi.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-06-en",
+    "family": "evasion",
+    "language": "en",
+    "title": "Transfer support",
+    "text": "Split payments to avoid bank checks. Work from your room and receive a daily commission.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-06-ms",
+    "family": "evasion",
+    "language": "ms",
+    "title": "Sokongan pindahan",
+    "text": "Pecahkan bayaran untuk elak semakan bank. Bekerja dari bilik dan terima komisen harian.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-07-en",
+    "family": "topup_chain",
+    "language": "en",
+    "title": "Product-task rewards",
+    "text": "Paid per task. Top up RM200 to withdraw your commission. A registration fee is needed to join.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-07-ms",
+    "family": "topup_chain",
+    "language": "ms",
+    "title": "Ganjaran tugas produk",
+    "text": "Bayaran setiap tugas. Tambah nilai RM200 untuk pengeluaran komisen. Yuran pendaftaran diperlukan.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-08-en",
+    "family": "secret_funds",
+    "language": "en",
+    "title": "Private finance clerk",
+    "text": "Forward customer funds to another account. Don’t tell the bank about this work. Keep it secret.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-08-ms",
+    "family": "secret_funds",
+    "language": "ms",
+    "title": "Kerani kewangan peribadi",
+    "text": "Terima dan hantar wang kepada akaun lain. Jangan beritahu bank tentang kerja ini.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-09-en",
+    "family": "lend_account",
+    "language": "en",
+    "title": "Spare-account income",
+    "text": "Lend us your account for incoming overseas payments. Easy money, no interview.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-09-ms",
+    "family": "lend_account",
+    "language": "ms",
+    "title": "Pendapatan akaun tambahan",
+    "text": "Sewa akaun untuk bayaran dari luar negara. Wang mudah, tanpa temu duga.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-10-en",
+    "family": "remote_device",
+    "language": "en",
+    "title": "Payment app assistant",
+    "text": "Install AnyDesk for setup. Send your bank PIN to the trainer. Training deposit is refundable.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-10-ms",
+    "family": "remote_device",
+    "language": "ms",
+    "title": "Pembantu aplikasi bayaran",
+    "text": "Pasang AnyDesk untuk persediaan. Hantar PIN bank kepada jurulatih. Deposit latihan dipulangkan.",
+    "label": "high",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-11-en",
+    "family": "fee",
+    "language": "en",
+    "title": "Data entry placement",
+    "text": "Data entry position at a fictional agency. Pay a registration fee before receiving the written contract.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-11-ms",
+    "family": "fee",
+    "language": "ms",
+    "title": "Penempatan kemasukan data",
+    "text": "Jawatan kemasukan data di agensi rekaan. Bayar yuran pendaftaran sebelum menerima kontrak bertulis.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-12-en",
+    "family": "identity",
+    "language": "en",
+    "title": "Event registration crew",
+    "text": "Upload a passport copy before we reveal the venue or company details. Shifts are on Saturday.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-12-ms",
+    "family": "identity",
+    "language": "ms",
+    "title": "Krew pendaftaran acara",
+    "text": "Hantar salinan pasport sebelum kami nyatakan tempat atau syarikat. Syif pada hari Sabtu.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-13-en",
+    "family": "crypto",
+    "language": "en",
+    "title": "Digital assistant",
+    "text": "Buy USDT for the equipment deposit. Work involves updating a product spreadsheet each week.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-13-ms",
+    "family": "crypto",
+    "language": "ms",
+    "title": "Pembantu digital",
+    "text": "Bayar dengan USDT untuk deposit peralatan. Kerja melibatkan kemas kini hamparan produk setiap minggu.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-14-en",
+    "family": "apk",
+    "language": "en",
+    "title": "Mobile survey work",
+    "text": "Install this APK from the recruiter to record surveys. We will explain permissions after installation.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-14-ms",
+    "family": "apk",
+    "language": "ms",
+    "title": "Kerja tinjauan mudah alih",
+    "text": "Pasang APK daripada perekrut untuk merekod tinjauan. Kebenaran diterangkan selepas pemasangan.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-15-en",
+    "family": "task_escalation",
+    "language": "en",
+    "title": "Task account reset",
+    "text": "Top up RM100 to withdraw earnings from completed tasks. Support is available by email.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-15-ms",
+    "family": "task_escalation",
+    "language": "ms",
+    "title": "Tetapan semula akaun tugas",
+    "text": "Tambah nilai RM100 untuk pengeluaran pendapatan tugas yang selesai. Sokongan melalui e-mel.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-16-en",
+    "family": "promise",
+    "language": "en",
+    "title": "Daily income opportunity",
+    "text": "Guaranteed daily income with no interview. The exact duties will be explained after you accept.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-16-ms",
+    "family": "promise",
+    "language": "ms",
+    "title": "Peluang pendapatan harian",
+    "text": "Pendapatan terjamin tanpa temu duga. Tugas sebenar diterangkan selepas anda menerima tawaran.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-17-en",
+    "family": "referral",
+    "language": "en",
+    "title": "Campus promoter",
+    "text": "Recruit friends for a bonus. No interview required. The promotion terms will be shared later.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-17-ms",
+    "family": "referral",
+    "language": "ms",
+    "title": "Promoter kampus",
+    "text": "Ajak kawan untuk bonus. Tanpa temu duga. Terma promosi akan diberikan kemudian.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-18-en",
+    "family": "payroll_context",
+    "language": "en",
+    "title": "Payroll setup question",
+    "text": "Send your personal bank account number after signing the employment contract. Ask HR if you need help.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-18-ms",
+    "family": "payroll_context",
+    "language": "ms",
+    "title": "Soalan persediaan gaji",
+    "text": "Berikan nombor akaun bank peribadi selepas menandatangani kontrak pekerjaan. Hubungi HR untuk bantuan.",
+    "label": "review",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-19-en",
+    "family": "cafe",
+    "language": "en",
+    "title": "Campus cafe assistant",
+    "text": "Cafe assistant, RM12 per hour. Weekend shifts, paid monthly. Contact WhatsApp to arrange an in-person interview.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-19-ms",
+    "family": "cafe",
+    "language": "ms",
+    "title": "Pembantu kafe kampus",
+    "text": "Pembantu kafe, RM12 sejam. Syif hujung minggu, gaji bulanan. Hubungi WhatsApp untuk temu duga bersemuka.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-20-en",
+    "family": "library",
+    "language": "en",
+    "title": "Library shelving",
+    "text": "Shelve books for 8 hours weekly. Apply through the university careers office. Written terms provided at interview.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-20-ms",
+    "family": "library",
+    "language": "ms",
+    "title": "Penyusun buku perpustakaan",
+    "text": "Susun buku selama 8 jam seminggu. Mohon melalui pejabat kerjaya universiti. Terma bertulis diberi semasa temu duga.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-21-en",
+    "family": "tutor",
+    "language": "en",
+    "title": "Maths tutor",
+    "text": "Teach introductory maths on Tuesdays. Applicants complete a short teaching exercise. Pay and lesson times are in the contract.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-21-ms",
+    "family": "tutor",
+    "language": "ms",
+    "title": "Tutor matematik",
+    "text": "Ajar matematik asas pada hari Selasa. Pemohon melengkapkan latihan mengajar ringkas. Gaji dan waktu dalam kontrak.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-22-en",
+    "family": "safety_notice",
+    "language": "en",
+    "title": "Recruitment safety note",
+    "text": "We never ask you to share your OTP. Do not receive and transfer money for strangers. Check the official careers page.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-22-ms",
+    "family": "safety_notice",
+    "language": "ms",
+    "title": "Nota keselamatan pengambilan",
+    "text": "Jangan kongsi OTP. Jangan terima dan pindahkan wang untuk orang asing. Semak laman kerjaya rasmi.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-23-en",
+    "family": "lab",
+    "language": "en",
+    "title": "Lab inventory assistant",
+    "text": "Count laboratory supplies with a supervisor. Paid hourly after approved timesheets. No registration fee is required.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-23-ms",
+    "family": "lab",
+    "language": "ms",
+    "title": "Pembantu inventori makmal",
+    "text": "Kira bekalan makmal bersama penyelia. Bayaran sejam selepas rekod waktu diluluskan. Tidak perlu yuran pendaftaran.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-24-en",
+    "family": "design",
+    "language": "en",
+    "title": "Poster illustrator",
+    "text": "Design two event posters. A written brief, revision limit and milestone payment schedule are available before acceptance.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-24-ms",
+    "family": "design",
+    "language": "ms",
+    "title": "Ilustrator poster",
+    "text": "Reka dua poster acara. Taklimat bertulis, had pindaan dan jadual bayaran tersedia sebelum penerimaan.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-25-en",
+    "family": "sports",
+    "language": "en",
+    "title": "Sports event steward",
+    "text": "Guide visitors during a campus sports day. Limited slots. The organiser provides a written schedule and named supervisor.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  },
+  {
+    "id": "offer-25-ms",
+    "family": "sports",
+    "language": "ms",
+    "title": "Petugas acara sukan",
+    "text": "Bantu pelawat semasa hari sukan kampus. Slot terhad. Penganjur menyediakan jadual bertulis dan penyelia bernama.",
+    "label": "low",
+    "synthetic": true,
+    "provenance": "Authored fictional educational example, 2026-10-19; no real person or employer."
+  }
+]

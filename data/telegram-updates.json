@@ -1,0 +1,5 @@
+[
+  {"update_id":1,"message":{"chat":{"id":10001,"type":"private"},"text":"/start"}},
+  {"update_id":2,"message":{"chat":{"id":10001,"type":"private"},"text":"Receive and transfer money through your personal bank account. Keep a commission."}},
+  {"update_id":3,"message":{"chat":{"id":99999,"type":"group"},"text":"This group is ignored."}}
+]

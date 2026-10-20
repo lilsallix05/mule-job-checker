@@ -1,0 +1,29 @@
+{
+  "dataset": "50 authored synthetic examples; labels are intended review priority, not real-world fraud truth.",
+  "n": 50,
+  "labels": [
+    "low",
+    "review",
+    "high"
+  ],
+  "confusion_matrix": [
+    [
+      14,
+      0,
+      0
+    ],
+    [
+      0,
+      16,
+      0
+    ],
+    [
+      0,
+      0,
+      20
+    ]
+  ],
+  "agreement": 1.0,
+  "disagreements": [],
+  "limits": "Development corpus; used while designing rules, not a held-out estimate. No diagnostic accuracy claim."
+}
